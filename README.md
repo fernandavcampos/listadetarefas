@@ -15,7 +15,7 @@ Uma aplicação simples de lista de tarefas construída com React e Vite, permit
 React + Vite ⚡<br>
 useState, useEffect (Hooks do React) 🎣<br>
 Framer Motion (para animações) 🎬<br>
-CSS puro (para estilização e tema escuro) 🎨<br>
+CSS puro (para estilização) 🎨<br>
 Local Storage (para persistência de dados) 💾<br><br>
 **<h2>📌Como Rodar o Projeto</h2>**<br>
 1️⃣ Clone o repositório:<br>
