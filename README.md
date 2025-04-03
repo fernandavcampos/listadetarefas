@@ -1,4 +1,4 @@
-📝 **To-Do List com React**<br>
+📝 **<h1>To-Do List com React</h1>**<br>
 Uma aplicação simples de lista de tarefas construída com React e Vite, permitindo adicionar, editar, concluir, remover e filtrar tarefas,  e armazenamento no localStorage.
 
 🚀 **Funcionalidades** <br>
