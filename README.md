@@ -23,18 +23,18 @@ sh<br>
 Copiar<br>
 Editar<br>
 git clone https://github.com/seu-usuario/todo-list-react.git<br>
-cd todo-list-react<br>
+cd todo-list-react<br><br>
 2️⃣ Instale as dependências:<br>
 sh<br>
 Copiar<br>
 Editar<br>
-npm install<br>
+npm install<br><br>
 3️⃣ Execute o projeto:<br>
 sh<br>
 Copiar<br>
 Editar<br>
 npm run dev<br>
-O projeto estará rodando em http://localhost:5173 🚀<br>
+O projeto estará rodando em http://localhost:5173 🚀<br><br>
 
 
 **<h2>📜Licença</h2>**<br>
