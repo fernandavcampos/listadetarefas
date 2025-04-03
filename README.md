@@ -1,7 +1,7 @@
-**📝 To-Do List com React**<br>
+📝 **To-Do List com React**<br>
 Uma aplicação simples de lista de tarefas construída com React e Vite, permitindo adicionar, editar, concluir, remover e filtrar tarefas,  e armazenamento no localStorage.
 
-🚀 Funcionalidades <br>
+🚀 **Funcionalidades** <br>
 ✅ Adicionar tarefas 📌<br>
 ✅ Editar tarefas ✏️ <br>
 ✅ Marcar tarefas como concluídas ✅ <br>
@@ -11,13 +11,13 @@ Uma aplicação simples de lista de tarefas construída com React e Vite, permit
 ✅ Salvamento automático no localStorage 💾<br>
 ✅ Animações suaves com Framer Motion 🎨 <br>
 
-🛠️ Tecnologias Utilizadas<br>
+🛠️ **Tecnologias Utilizadas**<br>
 React + Vite ⚡<br>
 useState, useEffect (Hooks do React) 🎣<br>
 Framer Motion (para animações) 🎬<br>
 CSS puro (para estilização e tema escuro) 🎨<br>
 Local Storage (para persistência de dados) 💾<br>
-📌 Como Rodar o Projeto<br>
+📌 **Como Rodar o Projeto**<br>
 1️⃣ Clone o repositório:<br>
 sh<br>
 Copiar<br>
@@ -37,5 +37,5 @@ npm run dev<br>
 O projeto estará rodando em http://localhost:5173 🚀<br>
 
 
-📜 Licença<br>
+📜 **Licença**<br>
 Este projeto é de código aberto e pode ser modificado conforme necessário. 😃
