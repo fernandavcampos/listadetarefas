@@ -11,7 +11,7 @@ Uma aplicação simples de lista de tarefas construída com React e Vite, permit
 ✅ Salvamento automático no localStorage 💾<br>
 ✅ Animações suaves com Framer Motion 🎨 <br>
 
-🛠️ **Tecnologias Utilizadas**<br>
+🛠️ **Tecnologias Utilizadas**<br><br>
 React + Vite ⚡<br>
 useState, useEffect (Hooks do React) 🎣<br>
 Framer Motion (para animações) 🎬<br>
