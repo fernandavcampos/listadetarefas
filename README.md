@@ -16,20 +16,20 @@ React + Vite ⚡<br>
 useState, useEffect (Hooks do React) 🎣<br>
 Framer Motion (para animações) 🎬<br>
 CSS puro (para estilização e tema escuro) 🎨<br>
-Local Storage (para persistência de dados) 💾<br>
-📌 **Como Rodar o Projeto**<br>
+Local Storage (para persistência de dados) 💾<br><br>
+📌 **Como Rodar o Projeto**<br><br>
 1️⃣ Clone o repositório:<br>
 sh<br>
 Copiar<br>
 Editar<br>
 git clone https://github.com/seu-usuario/todo-list-react.git<br>
 cd todo-list-react<br>
-2️⃣ Instale as dependências:<br>
+2️⃣ Instale as dependências:<br><br>
 sh<br>
 Copiar<br>
 Editar<br>
 npm install<br>
-3️⃣ Execute o projeto:<br>
+3️⃣ Execute o projeto:<br><br>
 sh<br>
 Copiar<br>
 Editar<br>
