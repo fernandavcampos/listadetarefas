@@ -2,7 +2,7 @@
 Uma aplicação simples de lista de tarefas construída com React e Vite, permitindo adicionar, editar, concluir, remover e filtrar tarefas,  e armazenamento no localStorage.
 
 🚀 Funcionalidades
-✅ Adicionar tarefas 📌
+✅ Adicionar tarefas 📌<br>
 ✅ Editar tarefas ✏️
 ✅ Marcar tarefas como concluídas ✅
 ✅ Remover tarefas ❌
