@@ -29,7 +29,7 @@ sh<br>
 Copiar<br>
 Editar<br>
 npm install<br>
-3️⃣ Execute o projeto:<br><br>
+3️⃣ Execute o projeto:<br>
 sh<br>
 Copiar<br>
 Editar<br>
