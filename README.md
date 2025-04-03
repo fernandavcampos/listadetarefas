@@ -11,20 +11,20 @@ Uma aplicação simples de lista de tarefas construída com React e Vite, permit
 ✅ Salvamento automático no localStorage 💾<br>
 ✅ Animações suaves com Framer Motion 🎨 <br>
 
-🛠️ **Tecnologias Utilizadas**<br><br>
+<h2>🛠️ **Tecnologias Utilizadas**</h2><br>
 React + Vite ⚡<br>
 useState, useEffect (Hooks do React) 🎣<br>
 Framer Motion (para animações) 🎬<br>
 CSS puro (para estilização e tema escuro) 🎨<br>
 Local Storage (para persistência de dados) 💾<br><br>
-📌 **Como Rodar o Projeto**<br><br>
+<h2>📌 **Como Rodar o Projeto*</h2>*<br>
 1️⃣ Clone o repositório:<br>
 sh<br>
 Copiar<br>
 Editar<br>
 git clone https://github.com/seu-usuario/todo-list-react.git<br>
 cd todo-list-react<br>
-2️⃣ Instale as dependências:<br><br>
+2️⃣ Instale as dependências:<br>
 sh<br>
 Copiar<br>
 Editar<br>
@@ -37,5 +37,5 @@ npm run dev<br>
 O projeto estará rodando em http://localhost:5173 🚀<br>
 
 
-📜 **Licença**<br>
+<h2>📜 **Licença**</h2><br>
 Este projeto é de código aberto e pode ser modificado conforme necessário. 😃
